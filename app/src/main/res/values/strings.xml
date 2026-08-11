@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kasir Digital</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="penjualan">Penjualan</string>
+    <string name="inventori">Inventori</string>
+    <string name="laporan">Laporan</string>
+    <string name="logout">Logout</string>
+    <string name="bayar">Bayar</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="keranjang">Keranjang</string>
+</resources>
